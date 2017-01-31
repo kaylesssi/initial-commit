@@ -1,0 +1,57 @@
+html {
+  background-color:#2e7061;
+  padding: 80px 60px 90px 60px;
+}
+.background {
+  background-color: white;
+}
+title {
+  text-align: center;
+  font-family: 'Cormorant', serif;
+  font-size: 30px;
+  padding: 20px 50px 20px 50px;
+}
+h3 {
+  text-align: center;
+  font-size: 60px
+  color: black;
+  font-family: 'Cormorant', serif;
+}
+h2 {
+  color: black;
+  font-size: 35px;
+  text-align: center;
+  font-family: 'Cormorant', serif;
+}
+.picture {
+  text-align: center;
+  display: block;
+}
+
+.faketext {
+  background-color: white;
+  padding: 30px 50px 30px 50px;
+  font-family: 'Fjalla+One', serif;
+}
+
+p {
+  font-size: 18px;
+  font-family: 'Fjalla+One', serif;
+  padding-left: 30px;
+}
+.float1 {
+  float:left;
+}
+.background2 {
+  background-color: white;
+  padding: 20px 50px 20px 50px;
+}
+h4 {
+  font-family: 'Cormorant', serif;
+  font-size: 20px;
+  text-align: left;
+  padding-left: 30px;
+}
+img {
+  padding-left: 30px;
+}
